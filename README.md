@@ -25,4 +25,4 @@ Particulaly, we are interesting in address the following assingments:
 1. Create a tidy data set as described in __CodeBook.md__ file,  
 2. Create a link to a Github repository with your script for performing the analysis,  
 3. Create a code book that describes the variables, the data, and any transformations or work that you performed to clean up the data called CodeBook.md and  
-4. Include a README.md in the repo with your scripts, explaining how all of the scripts work and how they are connected.
+4. Include a README.md in the repo with your scripts, explaining how all of the scripts work and how they are connected.  
